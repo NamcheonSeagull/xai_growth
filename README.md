@@ -5,7 +5,7 @@
 Collection of python source codes for metabolic flux simulation & machine & deep learning used in this study.
 For more information, please see the publication: Explainable machine learning and deep learning approaches to identify metabolic reactions important for bacterial growth under different carbon source conditions.
 
-Last update: 2023-08-10
+Last update: 2023-11-15
 
 This repository is administered by Hyunjae Woo (whj4851@konkuk.ac.kr), Department of Bioscience and Biotechnology, Konkuk University, Seoul, Republic of Korea.
 
