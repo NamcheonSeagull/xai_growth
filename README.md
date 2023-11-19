@@ -1,4 +1,4 @@
-# Explainable machine learning and deep learning approaches to identify metabolic reactions important for bacterial growth under different carbon source conditions
+# Machine learning identifies key metabolic reactions in bacterial growth on different carbon sources
 
 [![DOI]()]
 
